@@ -1,1 +1,3 @@
 import './bootstrap';
+
+Alpine.start();
